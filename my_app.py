@@ -16,4 +16,4 @@ st.write("My First Streamlit Web App")
 chart_data = pd.DataFrame(np.random.randn(20, 3), columns=['a', 'b', 'c'])
 st.write(chart_data)
 
-st.image('C:/Users/julia/OneDrive/Escritorio/3rd year/2nd cuatri/Progra/header.png')
+st.image('C:/Users/julia/OneDrive/Escritorio/3rd year/2nd cuatri/Progra/header.webp')
